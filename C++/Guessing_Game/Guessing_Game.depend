@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595943001 source:c:\users\phere\documents\projects\guessing_game\main.cpp
+	<iostream>
+	<cmath>
+
